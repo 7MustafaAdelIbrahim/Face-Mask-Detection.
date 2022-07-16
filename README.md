@@ -38,9 +38,9 @@ our dataset is avialable on kaggle [here](https://www.kaggle.com/datasets/ashish
     12K Images divided in training, testing and validation directories.
 
 <p float="left">
-<img src= "https://user-images.githubusercontent.com/84151016/179366324-836daaca-7dee-450a-b319-47f5fcf22d2f.png", width=100, height=100 />
-<img src= "https://user-images.githubusercontent.com/84151016/179366346-5205c64f-97c8-4e15-aa78-f7518fc17e17.png", width=100, height=100 />
-<img src= "https://user-images.githubusercontent.com/84151016/179366377-4441b3fd-6bf2-4343-9634-fd09c5a8afe2.png", width=100, height=100 />
+<img src= "https://user-images.githubusercontent.com/84151016/179366324-836daaca-7dee-450a-b319-47f5fcf22d2f.png", width=300, height=400 />
+<img src= "https://user-images.githubusercontent.com/84151016/179366346-5205c64f-97c8-4e15-aa78-f7518fc17e17.png", width=300, height=400 />
+<img src= "https://user-images.githubusercontent.com/84151016/179366377-4441b3fd-6bf2-4343-9634-fd09c5a8afe2.png", width=300, height=400 />
 </p>
 
 ## A brief look over the models
