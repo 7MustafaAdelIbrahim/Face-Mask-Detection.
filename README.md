@@ -38,16 +38,20 @@ our dataset is avialable on kaggle [here](https://www.kaggle.com/datasets/ashish
     12K Images divided in training, testing and validation directories.
 
 <p float="left">
-<img src= "https://user-images.githubusercontent.com/84151016/179366324-836daaca-7dee-450a-b319-47f5fcf22d2f.png", width=500, height=500 />
-<img src= "https://user-images.githubusercontent.com/84151016/179366346-5205c64f-97c8-4e15-aa78-f7518fc17e17.png", width=500, height=500 />
-<img src= "https://user-images.githubusercontent.com/84151016/179366377-4441b3fd-6bf2-4343-9634-fd09c5a8afe2.png", width=500, height=500 />
+<img src= "https://user-images.githubusercontent.com/84151016/179366324-836daaca-7dee-450a-b319-47f5fcf22d2f.png", width=400, height=500 />
+<img src= "https://user-images.githubusercontent.com/84151016/179366346-5205c64f-97c8-4e15-aa78-f7518fc17e17.png", width=400, height=500 />
+<img src= "https://user-images.githubusercontent.com/84151016/179366377-4441b3fd-6bf2-4343-9634-fd09c5a8afe2.png", width=400, height=500 />
 </p>
 
 ## A brief look over the models
 I have trayies to build our model depending on different deep learning architectures, such as AlexNet, DenseNet and MobileNet.
 
+## METHODOLOGY.
 
-## Conclusions
+<img src= "https://user-images.githubusercontent.com/84151016/179366925-e9d4c34e-babe-46e0-a4fc-473dbad6dbde.png" width=400, height=500>
+
+
+## CONCLUSIONS.
 
 During this work, we have trained so many models and finally we’ve come up with 3 models that represent the different stages we’ve come across until we reached these 
 results. The final model has been developed to come up with an efficient way for detecting and notifying officials when a person does not follow the COVID 19 safety 
